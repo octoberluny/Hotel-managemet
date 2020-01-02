@@ -1,0 +1,24 @@
+C:\Users\Kseniia\Desktop\nau\3 людино-машинна взаємодія. Нагорняк 5\ЛМВ_Лаба_2._4\ЛМВ_Лаба_2._4\bin\Debug\ЛМВ_Лаба_2._4.exe.config
+C:\Users\Kseniia\Desktop\nau\3 людино-машинна взаємодія. Нагорняк 5\ЛМВ_Лаба_2._4\ЛМВ_Лаба_2._4\obj\Debug\Brone.g.cs
+C:\Users\Kseniia\Desktop\nau\3 людино-машинна взаємодія. Нагорняк 5\ЛМВ_Лаба_2._4\ЛМВ_Лаба_2._4\obj\Debug\Main.g.cs
+C:\Users\Kseniia\Desktop\nau\3 людино-машинна взаємодія. Нагорняк 5\ЛМВ_Лаба_2._4\ЛМВ_Лаба_2._4\obj\Debug\MainWindow.g.cs
+C:\Users\Kseniia\Desktop\nau\3 людино-машинна взаємодія. Нагорняк 5\ЛМВ_Лаба_2._4\ЛМВ_Лаба_2._4\obj\Debug\Reyestr.g.cs
+C:\Users\Kseniia\Desktop\nau\3 людино-машинна взаємодія. Нагорняк 5\ЛМВ_Лаба_2._4\ЛМВ_Лаба_2._4\obj\Debug\Послуги.g.cs
+C:\Users\Kseniia\Desktop\nau\3 людино-машинна взаємодія. Нагорняк 5\ЛМВ_Лаба_2._4\ЛМВ_Лаба_2._4\obj\Debug\Пошук номеру.g.cs
+C:\Users\Kseniia\Desktop\nau\3 людино-машинна взаємодія. Нагорняк 5\ЛМВ_Лаба_2._4\ЛМВ_Лаба_2._4\obj\Debug\App.g.cs
+C:\Users\Kseniia\Desktop\nau\3 людино-машинна взаємодія. Нагорняк 5\ЛМВ_Лаба_2._4\ЛМВ_Лаба_2._4\obj\Debug\ЛМВ_Лаба_2._4_MarkupCompile.cache
+C:\Users\Kseniia\Desktop\nau\3 людино-машинна взаємодія. Нагорняк 5\ЛМВ_Лаба_2._4\ЛМВ_Лаба_2._4\obj\Debug\ЛМВ_Лаба_2._4_MarkupCompile.lref
+C:\Users\Kseniia\Desktop\nau\3 людино-машинна взаємодія. Нагорняк 5\ЛМВ_Лаба_2._4\ЛМВ_Лаба_2._4\bin\Debug\ЛМВ_Лаба_2._4.exe
+C:\Users\Kseniia\Desktop\nau\3 людино-машинна взаємодія. Нагорняк 5\ЛМВ_Лаба_2._4\ЛМВ_Лаба_2._4\bin\Debug\ЛМВ_Лаба_2._4.pdb
+C:\Users\Kseniia\Desktop\nau\3 людино-машинна взаємодія. Нагорняк 5\ЛМВ_Лаба_2._4\ЛМВ_Лаба_2._4\obj\Debug\Brone.baml
+C:\Users\Kseniia\Desktop\nau\3 людино-машинна взаємодія. Нагорняк 5\ЛМВ_Лаба_2._4\ЛМВ_Лаба_2._4\obj\Debug\Main.baml
+C:\Users\Kseniia\Desktop\nau\3 людино-машинна взаємодія. Нагорняк 5\ЛМВ_Лаба_2._4\ЛМВ_Лаба_2._4\obj\Debug\MainWindow.baml
+C:\Users\Kseniia\Desktop\nau\3 людино-машинна взаємодія. Нагорняк 5\ЛМВ_Лаба_2._4\ЛМВ_Лаба_2._4\obj\Debug\Reyestr.baml
+C:\Users\Kseniia\Desktop\nau\3 людино-машинна взаємодія. Нагорняк 5\ЛМВ_Лаба_2._4\ЛМВ_Лаба_2._4\obj\Debug\Послуги.baml
+C:\Users\Kseniia\Desktop\nau\3 людино-машинна взаємодія. Нагорняк 5\ЛМВ_Лаба_2._4\ЛМВ_Лаба_2._4\obj\Debug\Пошук номеру.baml
+C:\Users\Kseniia\Desktop\nau\3 людино-машинна взаємодія. Нагорняк 5\ЛМВ_Лаба_2._4\ЛМВ_Лаба_2._4\obj\Debug\ЛМВ_Лаба_2._4.g.resources
+C:\Users\Kseniia\Desktop\nau\3 людино-машинна взаємодія. Нагорняк 5\ЛМВ_Лаба_2._4\ЛМВ_Лаба_2._4\obj\Debug\ЛМВ_Лаба_2._4.Properties.Resources.resources
+C:\Users\Kseniia\Desktop\nau\3 людино-машинна взаємодія. Нагорняк 5\ЛМВ_Лаба_2._4\ЛМВ_Лаба_2._4\obj\Debug\ЛМВ_Лаба_2._4.csproj.GenerateResource.Cache
+C:\Users\Kseniia\Desktop\nau\3 людино-машинна взаємодія. Нагорняк 5\ЛМВ_Лаба_2._4\ЛМВ_Лаба_2._4\obj\Debug\ЛМВ_Лаба_2._4.exe
+C:\Users\Kseniia\Desktop\nau\3 людино-машинна взаємодія. Нагорняк 5\ЛМВ_Лаба_2._4\ЛМВ_Лаба_2._4\obj\Debug\ЛМВ_Лаба_2._4.pdb
+C:\Users\Kseniia\Desktop\nau\3 людино-машинна взаємодія. Нагорняк 5\ЛМВ_Лаба_2._4\ЛМВ_Лаба_2._4\obj\Debug\ЛМВ_Лаба_2._4.csprojResolveAssemblyReference.cache

@@ -1,0 +1,26 @@
+﻿<Window x:Class="ЛМВ_Лаба_2._4.Main"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ЛМВ_Лаба_2._4"
+        mc:Ignorable="d"
+        Title="Main" Height="289.638" Width="300">
+    <Grid Margin="0,0,0,-3">
+        <Image x:Name="image" HorizontalAlignment="Left" Height="76" Margin="44,17,0,0" VerticalAlignment="Top" Width="230" Source="Resources/c32666e54e756f674fffe057159e6de5.jpg"/>
+        <Label x:Name="label" Content="Ви зайшли в систему як" HorizontalAlignment="Left" Height="25" Margin="12,99,0,0" VerticalAlignment="Top" Width="146"/>
+        <Button x:Name="button" Content="" HorizontalAlignment="Left" Margin="71,141,0,0" VerticalAlignment="Top" Width="134" Height="30" Click="button_Click" Background="#FF282170" Foreground="White"/>
+        <Button x:Name="button3" Content="Вийти" HorizontalAlignment="Left" Margin="70,198,0,0" VerticalAlignment="Top" Width="134" RenderTransformOrigin="0,0" Height="30" Click="button3_Click" Foreground="#FFF0F0F0" Background="#FF282170">
+            <Button.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="-0.011"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Button.RenderTransform>
+        </Button>
+        <Label x:Name="label1" Content="" HorizontalAlignment="Left" Height="38" Margin="163,99,0,0" VerticalAlignment="Top" Width="121"/>
+
+    </Grid>
+</Window>

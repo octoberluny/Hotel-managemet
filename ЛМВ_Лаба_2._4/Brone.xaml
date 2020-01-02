@@ -1,0 +1,47 @@
+﻿<Window x:Class="ЛМВ_Лаба_2._4.Brone"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ЛМВ_Лаба_2._4"
+        mc:Ignorable="d"
+        Title="Brone" Height="597.092" Width="475.885">
+    <Grid Margin="0,0,-8,0">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="193*"/>
+            <ColumnDefinition Width="284*"/>
+        </Grid.ColumnDefinitions>
+        <Image x:Name="image1" HorizontalAlignment="Left" Height="221" VerticalAlignment="Top" Width="476" Source="Resources/c32666e54e756f674fffe057159e6de5.jpg" Opacity="0.15" Margin="4,24,-4,0" Grid.ColumnSpan="2"/>
+
+        <Image x:Name="image2" HorizontalAlignment="Left" Height="203" Margin="0,389,0,-26" VerticalAlignment="Top" Width="471" Opacity="0.15" Source="Resources/c32666e54e756f674fffe057159e6de5.jpg" Grid.ColumnSpan="2"/>
+
+        <RadioButton x:Name="radioButton" Content="Економ" HorizontalAlignment="Left" Margin="22,38,0,0" VerticalAlignment="Top"/>
+        <RadioButton x:Name="radioButton1" Content="Стандартний" HorizontalAlignment="Left" Margin="22,58,0,0" VerticalAlignment="Top"/>
+        <RadioButton x:Name="radioButton2" Content="Прем'єр" HorizontalAlignment="Left" Margin="22,78,0,0" VerticalAlignment="Top"/>
+        <RadioButton x:Name="radioButton3" Content="Люкс" HorizontalAlignment="Left" Margin="22,98,0,0" VerticalAlignment="Top"/>
+        <GroupBox x:Name="groupBox" Header="Тип номеру" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Height="120" Width="202" Grid.ColumnSpan="2"/>
+        <GroupBox x:Name="groupBox1" Header="Термін проживання" HorizontalAlignment="Left" Margin="26.5,10,0,0" VerticalAlignment="Top" Height="120" Width="239" Grid.Column="1">
+            <DatePicker x:Name="data2" HorizontalAlignment="Left" Margin="99,58,0,0" VerticalAlignment="Top" Width="124"/>
+        </GroupBox>
+        <DatePicker x:Name="data1" HorizontalAlignment="Left" Margin="131.5,42,0,0" VerticalAlignment="Top" Width="124" Grid.Column="1"/>
+        <Label x:Name="label" Content="Дата в'їзду" HorizontalAlignment="Left" Height="28" Margin="45.5,38,0,0" VerticalAlignment="Top" Width="81" Grid.Column="1"/>
+        <Label x:Name="label1" Content="Дата виїзду" HorizontalAlignment="Left" Height="35" Margin="45.5,80,0,0" VerticalAlignment="Top" Width="81" Grid.Column="1"/>
+        <GroupBox x:Name="groupBox2" Header="Список номерів" HorizontalAlignment="Left" Height="278" Margin="10,148,0,0" VerticalAlignment="Top" Width="202" BorderBrush="#FFB1C4CF" Grid.ColumnSpan="2">
+            <ListBox x:Name="listBox" HorizontalAlignment="Left" Height="240" Margin="10,10,0,0" VerticalAlignment="Top" Width="167" SelectionChanged="listBox_SelectionChanged">
+                <ListBoxItem Content="101" Selected="ListBoxItem_Selected"/>
+                <ListBoxItem Content="111"/>
+                <ListBoxItem Content="121"/>
+                <ListBoxItem Content="131"/>
+            </ListBox>
+        </GroupBox>
+        <GroupBox x:Name="groupBox3" Header="Інформація про номер" HorizontalAlignment="Left" Margin="26.5,148,0,0" VerticalAlignment="Top" Height="194" Width="249" Grid.Column="1"/>
+        <Button x:Name="button" Content="Розрахувати ватість" HorizontalAlignment="Left" Margin="29.5,353,0,0" VerticalAlignment="Top" Width="158" Height="36" Click="button_Click" Grid.Column="1" Background="#FF282170" Foreground="White"/>
+        <Button x:Name="button1" Content="Відмінити" HorizontalAlignment="Left" Margin="63,508,0,0" VerticalAlignment="Top" Width="97" Height="33" Click="button1_Click" Background="#FF282170" Foreground="White"/>
+        <Button x:Name="button2" Content="Вибрати номер" HorizontalAlignment="Left" Margin="124.5,508,0,0" VerticalAlignment="Top" Width="129" Height="33" Click="button2_Click" Grid.Column="1" Background="#FF282170" Foreground="White"/>
+        <Label x:Name="label2" Content="" HorizontalAlignment="Left" Margin="197.5,221,0,0" VerticalAlignment="Top" Width="68" Grid.Column="1"/>
+        <TextBox x:Name="textBox" HorizontalAlignment="Left" Height="131" Margin="43.5,182,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="210" Grid.Column="1"/>
+        <Label x:Name="label3" Content="" HorizontalAlignment="Left" Height="37" Margin="186.5,353,0,0" VerticalAlignment="Top" Width="91" Grid.Column="1"/>
+        <Image x:Name="image" HorizontalAlignment="Left" Height="56" Margin="124.5,370,0,0" VerticalAlignment="Top" Width="101" Grid.Column="1"/>
+
+    </Grid>
+</Window>

@@ -1,0 +1,27 @@
+﻿<Window x:Class="ЛМВ_Лаба_2._4.Послуги"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ЛМВ_Лаба_2._4"
+        mc:Ignorable="d"
+        Title="Послуги" Height="456.904" Width="366.527">
+    <Grid>
+        <Image x:Name="image1" HorizontalAlignment="Left" Height="182" VerticalAlignment="Top" Width="403" Source="Resources/c32666e54e756f674fffe057159e6de5.jpg" Opacity="0.15" Margin="-25,260,-19,-16"/>
+
+        <ListBox x:Name="listBox" HorizontalAlignment="Left" Height="154" Margin="10,33,0,0" VerticalAlignment="Top" Width="227"/>
+        <ListBox x:Name="listBox1" HorizontalAlignment="Left" Height="154" Margin="246,33,0,0" VerticalAlignment="Top" Width="91" SelectionChanged="listBox1_SelectionChanged"/>
+        <Label x:Name="label" Content="Послуга" HorizontalAlignment="Left" Height="28" Margin="93,4,0,0" VerticalAlignment="Top" Width="133"/>
+        <Label x:Name="label1" Content="Ціна (грн/добу)" HorizontalAlignment="Left" Height="27" Margin="244,3,0,0" VerticalAlignment="Top" Width="103"/>
+        <Button x:Name="button" Content="Замовити послуги" HorizontalAlignment="Left" Height="42" Margin="103,199,0,0" VerticalAlignment="Top" Width="163" Click="button_Click" Background="#FF282170" Foreground="#FFFBF0F0"/>
+        <Label x:Name="label16" Content="Вартість додаткових послуг -" HorizontalAlignment="Left" Margin="37,289,0,0" VerticalAlignment="Top" Width="183"/>
+        <Label x:Name="label17" Content="ЗАГАЛЬНА ВАРТІСТЬ - " HorizontalAlignment="Left" Margin="37,320,0,0" VerticalAlignment="Top" Width="137"/>
+        <Button x:Name="button1" Content="Відмінити" HorizontalAlignment="Left" Margin="27,377,0,0" VerticalAlignment="Top" Width="109" Click="button1_Click" Height="33" Background="#FF282170" Foreground="White"/>
+        <Button x:Name="button2" Content="Бронювати" HorizontalAlignment="Left" Margin="222,377,0,0" VerticalAlignment="Top" Width="109" Height="33" Click="button2_Click" Background="#FF282170" Foreground="#FFFBF9F9"/>
+        <Label x:Name="label2" Content="" HorizontalAlignment="Left" Height="26" Margin="222,259,0,0" VerticalAlignment="Top" Width="105"/>
+        <Label x:Name="label3" Content="" HorizontalAlignment="Left" Height="26" Margin="222,291,0,0" VerticalAlignment="Top" Width="105"/>
+        <Label x:Name="label4" Content="" HorizontalAlignment="Left" Height="26" Margin="222,320,0,0" VerticalAlignment="Top" Width="105"/>
+        <Label x:Name="label5" Content="Оплата за номер - " HorizontalAlignment="Left" Height="25" Margin="37,260,0,0" VerticalAlignment="Top" Width="147"/>
+
+    </Grid>
+</Window>

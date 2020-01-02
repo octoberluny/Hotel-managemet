@@ -1,0 +1,1711 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VisioDocument>
+	<DocumentProperties>
+		<Title></Title>
+		<HyperlinkBase href=""></HyperlinkBase>
+	</DocumentProperties>
+	<Pages>
+		<Page ID="0" Name="Авторизація" NameU="Авторизація">
+			<Layer IX="0">
+				<Name>Контейнер</Name>
+				<NameUniv>Container</NameUniv>
+				<Visible>1</Visible>
+			</Layer>
+			<Shapes>
+				<Shape ID="3" UniqueID="{9994A111-15DB-451D-BD92-920165E01536}" Name="Форма диалога" NameU="Dialog form" Master="14">
+					<Text>Авторизація</Text>
+					<XForm>
+						<PinX Unit="MM">3.905019685039372</PinX>
+						<PinY Unit="MM">9.488188976377954</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="8" UniqueID="{9581D58A-9C3A-4A6D-AE88-97BE90623C70}" Name="Надпись.8" NameU="Text box.8" Master="22">
+					<Text>Введите текст</Text>
+					<XForm>
+						<PinX Unit="MM">4.014025590551182</PinX>
+						<PinY Unit="MM">9.722244094488186</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="9" UniqueID="{9D2796C6-B12B-41EA-9A5E-0DB063DCF79E}" Name="Надпись.9" NameU="Text box.9" Master="22">
+					<Text>Введите текст</Text>
+					<XForm>
+						<PinX Unit="MM">4.014025590551182</PinX>
+						<PinY Unit="MM">9.167322834645667</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="10" UniqueID="{78FBCDF7-B470-4241-8D2A-F63EA6A726EE}" Name="Кнопка.10" NameU="Button.10" Master="12">
+					<Text>Вхід</Text>
+					<XForm>
+						<PinX Unit="MM">3.897637795275592</PinX>
+						<PinY Unit="MM">8.739074803149610</PinY>
+					</XForm>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description></HLURL:Description>
+										<HLURL:Address></HLURL:Address>
+										<HLURL:SubAddress>Головна/Форма%20приложения</HLURL:SubAddress>
+										<HLURL:ExtraInfo></HLURL:ExtraInfo>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:NewWindow>0</HLURL:NewWindow>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+				</Shape>
+				<Shape ID="18" UniqueID="{94997A6E-19D5-472C-AC57-C4D0877E68BB}" Name="Подпись.18" NameU="Label.18" Master="23">
+					<Text>Логін</Text>
+					<XForm>
+						<PinX Unit="MM">2.911663385826772</PinX>
+						<PinY Unit="MM">9.961245078740157</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="19" UniqueID="{76325416-8444-4A5F-B13C-D5A989A930C4}" Name="Подпись.19" NameU="Label.19" Master="23">
+					<Text>Пароль</Text>
+					<XForm>
+						<PinX Unit="MM">2.923474409448819</PinX>
+						<PinY Unit="MM">9.423843503937007</PinY>
+					</XForm>
+				</Shape>
+			</Shapes>
+		</Page>
+		<Page ID="4" Name="Головна" NameU="Диалог">
+			<Layer IX="0">
+				<Name>Примечания</Name>
+				<NameUniv>Annotations</NameUniv>
+				<Visible>1</Visible>
+			</Layer>
+			<Shapes>
+				<Shape ID="6" UniqueID="{2E8EDE38-3966-44DD-8F9B-1DDC29EC50C4}" Name="Форма приложения" NameU="Application form" Master="2">
+					<Text>ГОТЕЛЬ</Text>
+					<XForm>
+						<PinX Unit="MM">4.183070866141733</PinX>
+						<PinY Unit="MM">8.205634430016009</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="5" UniqueID="{A2775BB9-D910-4DAD-A658-5A553BC81CF8}" Name="Заголовок раздела" NameU="Section header" Master="30">
+					<Text>Користувач - </Text>
+					<XForm>
+						<PinX Unit="MM">4.271653543307087</PinX>
+						<PinY Unit="MM">9.586614173228345</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="12" UniqueID="{F07692FE-3CE4-4C90-9D37-C19BD8926941}" Name="Кнопка.12" NameU="Button.12" Master="12">
+					<Text>Пошук клієнтів</Text>
+					<XForm>
+						<PinX Unit="MM">4.232283464566930</PinX>
+						<PinY Unit="MM">7.933070866141726</PinY>
+					</XForm>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description></HLURL:Description>
+										<HLURL:Address></HLURL:Address>
+										<HLURL:SubAddress>Пошук/Форма%20диалога</HLURL:SubAddress>
+										<HLURL:ExtraInfo></HLURL:ExtraInfo>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:NewWindow>0</HLURL:NewWindow>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+				</Shape>
+				<Shape ID="16" UniqueID="{4D9CA92C-DB7B-4B15-A70C-0292457A97AE}" Name="Кнопка.16" NameU="Button.16" Master="12">
+					<Text>Звільнення номеру</Text>
+					<XForm>
+						<PinX Unit="MM">4.232283464566930</PinX>
+						<PinY Unit="MM">6.358267716535433</PinY>
+					</XForm>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description></HLURL:Description>
+										<HLURL:Address></HLURL:Address>
+										<HLURL:SubAddress>Звільнення/Форма%20диалога</HLURL:SubAddress>
+										<HLURL:ExtraInfo></HLURL:ExtraInfo>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:NewWindow>0</HLURL:NewWindow>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+				</Shape>
+				<Shape ID="20" UniqueID="{A4691C4B-7BAA-49CF-BCBA-99974457A5FA}" Name="Кнопка.20" NameU="Button.20" Master="12">
+					<Text>Бронювати номер</Text>
+					<XForm>
+						<PinX Unit="MM">4.232283464566930</PinX>
+						<PinY Unit="MM">8.700787401574797</PinY>
+					</XForm>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description></HLURL:Description>
+										<HLURL:Address></HLURL:Address>
+										<HLURL:SubAddress>Номери/Форма%20диалога</HLURL:SubAddress>
+										<HLURL:ExtraInfo></HLURL:ExtraInfo>
+										<HLURL:Default>1</HLURL:Default>
+										<HLURL:NewWindow>0</HLURL:NewWindow>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+				</Shape>
+				<Shape ID="24" UniqueID="{D733A0AF-C307-494C-A1DE-43E18F49988B}" Name="Кнопка.24" NameU="Button.24" Master="12">
+					<Text>Реєстрація клієнтів</Text>
+					<XForm>
+						<PinX Unit="MM">4.232283464566930</PinX>
+						<PinY Unit="MM">7.145669291338580</PinY>
+					</XForm>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description></HLURL:Description>
+										<HLURL:Address></HLURL:Address>
+										<HLURL:SubAddress>Реєстрація/Форма%20диалога</HLURL:SubAddress>
+										<HLURL:ExtraInfo></HLURL:ExtraInfo>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:NewWindow>0</HLURL:NewWindow>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+				</Shape>
+			</Shapes>
+		</Page>
+		<Page ID="7" Name="Номери" NameU="Бронювання номеру">
+			<Layer IX="0">
+				<Name>Контейнер</Name>
+				<NameUniv>Container</NameUniv>
+				<Visible>1</Visible>
+			</Layer>
+			<Shapes>
+				<Shape ID="16" UniqueID="{780A9500-2595-4086-B2E3-19970000FF64}" Name="Контейнер 4" NameU="Container 4" Master="39">
+					<Text>Заголовок</Text>
+					<XForm>
+						<PinX Unit="MM">2.413363954505686</PinX>
+						<PinY Unit="MM">8.286307961504813</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="1" UniqueID="{9D12EBD1-67A4-4F74-A559-536E6C1C5B27}" Name="Форма диалога" NameU="Dialog form" Master="14">
+					<Text>Перегляд номерів</Text>
+					<XForm>
+						<PinX Unit="MM">3.997484689413823</PinX>
+						<PinY Unit="MM">6.653543307086620</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="21" UniqueID="{324AD312-6BB7-445A-BC62-659247C2392B}" Name="Sheet.21" NameU="Sheet.21">
+					<XForm>
+						<PinX Unit="MM">2.312992125984252</PinX>
+						<PinY Unit="MM">8.523622047244094</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="6" UniqueID="{CEFBB402-7397-4239-B052-7588C53912B8}" Name="Переключатель" NameU="Radio button" Master="38">
+					<XForm>
+						<PinX Unit="MM">0.909120734908138</PinX>
+						<PinY Unit="MM">8.348988149031294</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="9" UniqueID="{AD0347DD-3D78-4696-959D-E9BA87639224}" Name="Переключатель.9" NameU="Radio button.9" Master="38">
+					<XForm>
+						<PinX Unit="MM">0.909120734908138</PinX>
+						<PinY Unit="MM">8.048649646244297</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="12" UniqueID="{39D3EAE5-2190-4CB9-9081-7D4E3C88B0DD}" Name="Переключатель.12" NameU="Radio button.12" Master="38">
+					<XForm>
+						<PinX Unit="MM">0.909120734908138</PinX>
+						<PinY Unit="MM">8.649658504512011</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="15" UniqueID="{84BA7521-0CD7-4FC5-A35D-AE5F6B7BA49C}" Name="Подпись" NameU="Label" Master="23">
+					<Text>Виберіть тип номеру</Text>
+					<XForm>
+						<PinX Unit="MM">0.810695538057744</PinX>
+						<PinY Unit="MM">8.993980767141530</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="22" UniqueID="{49913B93-B3B4-4078-8541-C40655EC6E1E}" Name="Sheet.22" NameU="Sheet.22">
+					<XForm>
+						<PinX Unit="MM">2.312992125984252</PinX>
+						<PinY Unit="MM">6.299212598425196</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="23" UniqueID="{6939C740-5188-47F3-AD19-73E138190CF5}" Name="Sheet.23" NameU="Sheet.23">
+					<XForm>
+						<PinX Unit="MM">5.748031496062993</PinX>
+						<PinY Unit="MM">6.301197553917862</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="24" UniqueID="{666E7444-22E0-4203-AF4D-40DF7E965CA8}" Name="Sheet.24" NameU="Sheet.24">
+					<Text>Інформація про номер</Text>
+					<XForm>
+						<PinX Unit="MM">5.799650043744532</PinX>
+						<PinY Unit="MM">7.538276465441819</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="25" UniqueID="{0F37FF49-E7EC-431F-9570-7158CFC4D435}" Name="Переключатель.25" NameU="Radio button.25" Master="38">
+					<XForm>
+						<PinX Unit="MM">2.312992125984252</PinX>
+						<PinY Unit="MM">8.649658504512011</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="28" UniqueID="{D912E0BB-24F5-4CA3-87DA-2D06232B23C8}" Name="Переключатель.28" NameU="Radio button.28" Master="38">
+					<XForm>
+						<PinX Unit="MM">2.312992125984252</PinX>
+						<PinY Unit="MM">8.048649646244297</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="31" UniqueID="{390865BE-B088-46AF-8452-1CDD7BF04AAB}" Name="Переключатель.31" NameU="Radio button.31" Master="38">
+					<XForm>
+						<PinX Unit="MM">2.312992125984252</PinX>
+						<PinY Unit="MM">8.348988149031293</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="34" UniqueID="{C94E9439-F26D-4B61-847F-70313D132BBF}" Name="Sheet.34" NameU="Sheet.34">
+					<Text>Список номерів</Text>
+					<XForm>
+						<PinX Unit="MM">2.231846019247594</PinX>
+						<PinY Unit="MM">7.538276465441819</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="35" UniqueID="{79E95249-BA91-467A-BA9B-675B40D03ECC}" Name="Кнопка" NameU="Button" Master="12">
+					<Text>Бронювати</Text>
+					<XForm>
+						<PinX Unit="MM">5.708661417322835</PinX>
+						<PinY Unit="MM">3.877952755905512</PinY>
+					</XForm>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description></HLURL:Description>
+										<HLURL:Address></HLURL:Address>
+										<HLURL:SubAddress>Бронювання/Форма%20диалога</HLURL:SubAddress>
+										<HLURL:ExtraInfo></HLURL:ExtraInfo>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:NewWindow>0</HLURL:NewWindow>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+				</Shape>
+				<Shape ID="39" UniqueID="{8E3DC85C-DA65-4F9A-89A4-5698C42B7653}" Name="Sheet.39" NameU="Sheet.39">
+					<XForm>
+						<PinX Unit="MM">2.027559055118110</PinX>
+						<PinY Unit="MM">3.838582677165355</PinY>
+					</XForm>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description></HLURL:Description>
+										<HLURL:Address></HLURL:Address>
+										<HLURL:SubAddress>Головна/Форма%20приложения</HLURL:SubAddress>
+										<HLURL:ExtraInfo></HLURL:ExtraInfo>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:NewWindow>0</HLURL:NewWindow>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+				</Shape>
+				<Shape ID="40" UniqueID="{AFDFF532-DC86-4F94-875A-6D517727741B}" Name="Кнопка.28" NameU="Button.28" Master="12">
+					<Text>       Відмінити</Text>
+					<XForm>
+						<PinX Unit="MM">2.027559055118110</PinX>
+						<PinY Unit="MM">3.838582677165354</PinY>
+					</XForm>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description></HLURL:Description>
+										<HLURL:Address></HLURL:Address>
+										<HLURL:SubAddress>Головна/Форма%20приложения</HLURL:SubAddress>
+										<HLURL:ExtraInfo></HLURL:ExtraInfo>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:NewWindow>0</HLURL:NewWindow>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+				</Shape>
+				<Shape ID="44" UniqueID="{F8A1FFCA-334F-418B-A1B5-4D3EB5240A6F}" Name="Удалить" NameU="Remove" Master="43">
+					<XForm>
+						<PinX Unit="MM">1.338582677165354</PinX>
+						<PinY Unit="MM">3.838582677165355</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="45" UniqueID="{7B2BF412-572B-4485-B4CF-D39615CDBEEB}" Name="Sheet.45" NameU="Sheet.45">
+					<XForm>
+						<PinX Unit="MM">5.738188976377953</PinX>
+						<PinY Unit="MM">8.523622047244096</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="46" UniqueID="{1A7FEB6F-7A5F-4975-8E66-B471E31C6FB3}" Name="Подпись.26" NameU="Label.26" Master="23">
+					<Text>Дата в’їзду</Text>
+					<XForm>
+						<PinX Unit="MM">4.303040244969380</PinX>
+						<PinY Unit="MM">8.937007874015748</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="47" UniqueID="{64285E05-AF93-45ED-ABDA-57A4C1D84C05}" Name="Подпись.27" NameU="Label.27" Master="23">
+					<Text>Дата виселення</Text>
+					<XForm>
+						<PinX Unit="MM">4.291338582677166</PinX>
+						<PinY Unit="MM">8.385826771653543</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="48" UniqueID="{162625F5-CC63-47D0-84CE-DF4F27F9062C}" Name="Sheet.48" NameU="Sheet.48">
+					<XForm>
+						<PinX Unit="MM">5.285761154855644</PinX>
+						<PinY Unit="MM">8.660802165354330</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="49" UniqueID="{FB75DC0A-3E36-47FC-8C01-9A2D2C49A6B4}" Name="Элемент списка" NameU="List box item" Master="41">
+					<Text>Текст</Text>
+					<XForm>
+						<PinX Unit="MM">5.285761154855644</PinX>
+						<PinY Unit="MM">8.660802165354330</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="51" UniqueID="{23187F76-E390-4DB7-9D7F-4155003CD3FD}" Name="Раскрывающийся список" NameU="Drop down" Master="42">
+					<XForm>
+						<PinX Unit="MM">5.955052493438321</PinX>
+						<PinY Unit="MM">8.660802165354330</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="55" UniqueID="{4F5E9BBB-34B3-48AE-A9CE-E31C5E298932}" Name="Sheet.55" NameU="Sheet.55">
+					<XForm>
+						<PinX Unit="MM">5.305446194225723</PinX>
+						<PinY Unit="MM">8.110851377952756</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="56" UniqueID="{D23A6D20-4D23-4DED-AA37-6B666B8C130E}" Name="Элемент списка" NameU="List box item" Master="41">
+					<Text>Текст</Text>
+					<XForm>
+						<PinX Unit="MM">5.305446194225723</PinX>
+						<PinY Unit="MM">8.110851377952756</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="58" UniqueID="{2ABDA9F5-8D19-4FC3-B67D-2B55BC62D5EB}" Name="Раскрывающийся список" NameU="Drop down" Master="42">
+					<XForm>
+						<PinX Unit="MM">5.974737532808399</PinX>
+						<PinY Unit="MM">8.110851377952756</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="62" UniqueID="{8437CBFD-313A-4220-B8EC-50EF9E762A2B}" Name="Подпись.55" NameU="Label.55" Master="23">
+					<Text>Вартість бронювання - </Text>
+					<XForm>
+						<PinX Unit="MM">4.167104111986002</PinX>
+						<PinY Unit="MM">4.527559055118110</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="63" UniqueID="{56D830D0-D254-482C-9FCA-9CBF3459E6EE}" Name="Кнопка.63" NameU="Button.63" Master="12">
+					<Text>Розрахувати вартість</Text>
+					<XForm>
+						<PinX Unit="MM">2.303149606299214</PinX>
+						<PinY Unit="MM">4.527559055118109</PinY>
+					</XForm>
+				</Shape>
+			</Shapes>
+		</Page>
+		<Page ID="8" Name="Бронювання" NameU="Бронювання">
+			<Layer IX="0">
+				<Name>Контейнер</Name>
+				<NameUniv>Container</NameUniv>
+				<Visible>1</Visible>
+			</Layer>
+			<Shapes>
+				<Shape ID="17" UniqueID="{E88ED43F-1489-4D95-B15A-6F91D5F9D517}" Name="Контейнер 4.17" NameU="Container 4.17" Master="39">
+					<Text>Заголовок</Text>
+					<XForm>
+						<PinX Unit="MM">3.389545056867893</PinX>
+						<PinY Unit="MM">7.618110236220472</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="6" UniqueID="{D8E6AE51-3767-410D-9043-119A8E56C1F8}" Name="Форма диалога" NameU="Dialog form" Master="14">
+					<Text>Замовити додаткові послуги</Text>
+					<XForm>
+						<PinX Unit="MM">3.389545056867891</PinX>
+						<PinY Unit="MM">7.824803149606305</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="35" UniqueID="{55944766-E8AA-4550-8B97-4914BED559CF}" Name="Кнопка" NameU="Button" Master="12">
+					<Text>Бронювати</Text>
+					<XForm>
+						<PinX Unit="MM">5.039370078740157</PinX>
+						<PinY Unit="MM">6.141732283464568</PinY>
+					</XForm>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description></HLURL:Description>
+										<HLURL:Address></HLURL:Address>
+										<HLURL:SubAddress>Головна/Форма%20приложения</HLURL:SubAddress>
+										<HLURL:ExtraInfo></HLURL:ExtraInfo>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:NewWindow>0</HLURL:NewWindow>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+				</Shape>
+				<Shape ID="57" UniqueID="{4BADEA23-CC24-4BB4-ABCB-CDC2F6B785EE}" Name="Sheet.57" NameU="Sheet.57">
+					<XForm>
+						<PinX Unit="MM">1.968503937007875</PinX>
+						<PinY Unit="MM">6.141732283464569</PinY>
+					</XForm>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description></HLURL:Description>
+										<HLURL:Address></HLURL:Address>
+										<HLURL:SubAddress>Головна/Форма%20приложения</HLURL:SubAddress>
+										<HLURL:ExtraInfo></HLURL:ExtraInfo>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:NewWindow>0</HLURL:NewWindow>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+				</Shape>
+				<Shape ID="28" UniqueID="{8E591C3C-3715-4AF8-8827-4ADC2A1C2091}" Name="Кнопка.28" NameU="Button.28" Master="12">
+					<Text>       Відмінити</Text>
+					<XForm>
+						<PinX Unit="MM">1.968503937007875</PinX>
+						<PinY Unit="MM">6.141732283464568</PinY>
+					</XForm>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description></HLURL:Description>
+										<HLURL:Address></HLURL:Address>
+										<HLURL:SubAddress></HLURL:SubAddress>
+										<HLURL:ExtraInfo></HLURL:ExtraInfo>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:NewWindow>0</HLURL:NewWindow>
+										<HLURL:AbsoluteURL></HLURL:AbsoluteURL>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+				</Shape>
+				<Shape ID="54" UniqueID="{A4E14A6C-7D97-4350-A265-20FFC97FF51F}" Name="Удалить" NameU="Remove" Master="43">
+					<XForm>
+						<PinX Unit="MM">1.279527559055119</PinX>
+						<PinY Unit="MM">6.141732283464569</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="62" UniqueID="{B17FA195-378D-41C3-9008-91E3644DD60E}" Name="Sheet.62" NameU="Sheet.62">
+					<XForm>
+						<PinX Unit="MM">3.405511811023622</PinX>
+						<PinY Unit="MM">8.425196850393700</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="58" UniqueID="{56F7AEE6-254F-4C72-AA24-D91B189CC77D}" Name="Флажок" NameU="Checkbox" Master="45">
+					<Text>Замовлення додаткових послуг</Text>
+					<XForm>
+						<PinX Unit="MM">2.578740157480316</PinX>
+						<PinY Unit="MM">9.076085265403810</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="63" UniqueID="{698D050B-7795-41E8-8689-390D62A3D75F}" Name="Кнопка.63" NameU="Button.63" Master="12">
+					<Text>Замовити послуги</Text>
+					<XForm>
+						<PinX Unit="MM">1.948818897637796</PinX>
+						<PinY Unit="MM">8.346456692913385</PinY>
+					</XForm>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description></HLURL:Description>
+										<HLURL:Address></HLURL:Address>
+										<HLURL:SubAddress>Додаткові/Форма%20диалога</HLURL:SubAddress>
+										<HLURL:ExtraInfo></HLURL:ExtraInfo>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:NewWindow>0</HLURL:NewWindow>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+				</Shape>
+				<Shape ID="67" UniqueID="{F6F07B73-3F02-448B-ABC8-2C1BC2E87737}" Name="Sheet.67" NameU="Sheet.67">
+					<XForm>
+						<PinX Unit="MM">4.547244094488191</PinX>
+						<PinY Unit="MM">8.231553965097850</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="68" UniqueID="{87D399BC-DAA8-47D2-8580-6EB65A89DB6A}" Name="Sheet.68" NameU="Sheet.68">
+					<Text>Список замовлень</Text>
+					<XForm>
+						<PinX Unit="MM">4.534995625546808</PinX>
+						<PinY Unit="MM">8.798118985126857</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="11" UniqueID="{0D952D82-8FDA-45E7-9803-369AB5D68523}" Name="Подпись" NameU="Label" Master="23">
+					<Text>ЗАГАЛЬНА ВАРТІСТЬ - </Text>
+					<XForm>
+						<PinX Unit="MM">1.896106736657919</PinX>
+						<PinY Unit="MM">6.732283464566930</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="12" UniqueID="{F6C6F7CB-7438-4D0E-A670-98CE49A027F8}" Name="Подпись.35" NameU="Label.35" Master="23">
+					<Text>Вартість проживання - </Text>
+					<XForm>
+						<PinX Unit="MM">1.891841644794402</PinX>
+						<PinY Unit="MM">7.284079724409449</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="13" UniqueID="{8597D06E-0EC6-4C84-A1F6-6AFFD7615621}" Name="Подпись.36" NameU="Label.36" Master="23">
+					<Text>Вартість додаткових послуг - </Text>
+					<XForm>
+						<PinX Unit="MM">1.889216972878392</PinX>
+						<PinY Unit="MM">7.008489173228346</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="14" UniqueID="{EBF65BB0-E8FE-4AF1-82FD-85C928FEF6DA}" Name="Подпись.37" NameU="Label.37" Master="23">
+					<Text>$$$</Text>
+					<XForm>
+						<PinX Unit="MM">4.406167979002627</PinX>
+						<PinY Unit="MM">7.282849409448819</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="15" UniqueID="{F7B99A62-9548-4554-874B-E9273C2DACBB}" Name="Подпись.38" NameU="Label.38" Master="23">
+					<Text>$$$</Text>
+					<XForm>
+						<PinX Unit="MM">4.406714785651795</PinX>
+						<PinY Unit="MM">7.008489173228346</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="16" UniqueID="{FC5D2DD6-5D94-4C1A-9F82-840E75114FFF}" Name="Подпись.39" NameU="Label.39" Master="23">
+					<Text>$$$</Text>
+					<XForm>
+						<PinX Unit="MM">4.417650918635172</PinX>
+						<PinY Unit="MM">6.731668307086615</PinY>
+					</XForm>
+				</Shape>
+			</Shapes>
+		</Page>
+		<Page ID="9" Name="Додаткові" NameU="Додаткові">
+			<Layer IX="0">
+				<Name>Контейнер</Name>
+				<NameUniv>Container</NameUniv>
+				<Visible>1</Visible>
+			</Layer>
+			<Shapes>
+				<Shape ID="1" UniqueID="{33C7D852-4C9B-4615-A6B7-F658181B6828}" Name="Контейнер 4" NameU="Container 4" Master="39">
+					<Text>Заголовок</Text>
+					<XForm>
+						<PinX Unit="MM">2.237970253718285</PinX>
+						<PinY Unit="MM">8.286307961504813</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="6" UniqueID="{B5DC2D8E-7E85-49B2-91A6-3290B6463B04}" Name="Форма диалога" NameU="Dialog form" Master="14">
+					<Text>Замовлення послуг</Text>
+					<XForm>
+						<PinX Unit="MM">3.997484689413823</PinX>
+						<PinY Unit="MM">7.342519685039376</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="22" UniqueID="{8CB76D55-5FF2-4BFF-AE84-02D6E0F4FE7F}" Name="Sheet.22" NameU="Sheet.22">
+					<XForm>
+						<PinX Unit="MM">2.312992125984252</PinX>
+						<PinY Unit="MM">7.834645669291337</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="23" UniqueID="{7B3C8D3E-B88A-45F6-8AFA-54EB9D783407}" Name="Sheet.23" NameU="Sheet.23">
+					<XForm>
+						<PinX Unit="MM">5.728346456692913</PinX>
+						<PinY Unit="MM">7.346489596024700</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="24" UniqueID="{A0C64C5F-47BA-47B8-BDFA-D3612377FA66}" Name="Sheet.24" NameU="Sheet.24">
+					<Text>Інформація про послугу</Text>
+					<XForm>
+						<PinX Unit="MM">5.799650043744531</PinX>
+						<PinY Unit="MM">9.036526684164480</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="34" UniqueID="{48DBA488-6DC9-4E42-9607-0CD82789A6E0}" Name="Sheet.34" NameU="Sheet.34">
+					<Text>Список послуг</Text>
+					<XForm>
+						<PinX Unit="MM">2.237970253718285</PinX>
+						<PinY Unit="MM">9.034339457567803</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="35" UniqueID="{5AB2EEAE-216D-4343-8825-D7830B76DA23}" Name="Кнопка" NameU="Button" Master="12">
+					<Text>Замовити</Text>
+					<XForm>
+						<PinX Unit="MM">5.728346456692913</PinX>
+						<PinY Unit="MM">5.196850393700787</PinY>
+					</XForm>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description></HLURL:Description>
+										<HLURL:Address></HLURL:Address>
+										<HLURL:SubAddress>Бронювання/Форма%20диалога</HLURL:SubAddress>
+										<HLURL:ExtraInfo></HLURL:ExtraInfo>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:NewWindow>0</HLURL:NewWindow>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+				</Shape>
+				<Shape ID="39" UniqueID="{695D939F-4559-41BD-BE18-772147866298}" Name="Sheet.39" NameU="Sheet.39">
+					<XForm>
+						<PinX Unit="MM">2.086614173228346</PinX>
+						<PinY Unit="MM">5.196850393700788</PinY>
+					</XForm>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description></HLURL:Description>
+										<HLURL:Address></HLURL:Address>
+										<HLURL:SubAddress>Головна/Форма%20приложения</HLURL:SubAddress>
+										<HLURL:ExtraInfo></HLURL:ExtraInfo>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:NewWindow>0</HLURL:NewWindow>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+				</Shape>
+				<Shape ID="40" UniqueID="{7610639C-0FD6-49CC-B0B7-8CF9A27803E5}" Name="Кнопка.28" NameU="Button.28" Master="12">
+					<Text>       Відмінити</Text>
+					<XForm>
+						<PinX Unit="MM">2.086614173228346</PinX>
+						<PinY Unit="MM">5.196850393700787</PinY>
+					</XForm>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description></HLURL:Description>
+										<HLURL:Address></HLURL:Address>
+										<HLURL:SubAddress>Головна/Форма%20приложения</HLURL:SubAddress>
+										<HLURL:ExtraInfo></HLURL:ExtraInfo>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:NewWindow>0</HLURL:NewWindow>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+				</Shape>
+				<Shape ID="44" UniqueID="{D8C52E82-1AC7-42C0-9F32-D038156658CD}" Name="Удалить" NameU="Remove" Master="43">
+					<XForm>
+						<PinX Unit="MM">1.397637795275590</PinX>
+						<PinY Unit="MM">5.196850393700788</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="11" UniqueID="{3A7E4EF7-A9DB-44A8-8077-0630040F9767}" Name="Подпись" NameU="Label" Master="23">
+					<Text>Загальна вартість - </Text>
+					<XForm>
+						<PinX Unit="MM">0.764654418197725</PinX>
+						<PinY Unit="MM">5.983636811023621</PinY>
+					</XForm>
+				</Shape>
+			</Shapes>
+		</Page>
+		<Page ID="12" Name="Пошук" NameU="Пошук">
+			<Layer IX="0">
+				<Name>Контейнер</Name>
+				<NameUniv>Container</NameUniv>
+				<Visible>1</Visible>
+			</Layer>
+			<Shapes>
+				<Shape ID="1" UniqueID="{3EDD3C2E-2D48-47B3-93E4-9EDF2AD0E464}" Name="Контейнер 4" NameU="Container 4" Master="39">
+					<Text>Заголовок</Text>
+					<XForm>
+						<PinX Unit="MM">3.576552930883639</PinX>
+						<PinY Unit="MM">8.286307961504811</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="6" UniqueID="{F4A354E1-AC19-46A1-8CE1-B28C440E450F}" Name="Форма диалога" NameU="Dialog form" Master="14">
+					<Text>Пошук клієнтів</Text>
+					<XForm>
+						<PinX Unit="MM">3.997484689413823</PinX>
+						<PinY Unit="MM">6.299212598425203</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="11" UniqueID="{260FE775-2DC7-4AC7-A4B1-EFEEEE737319}" Name="Надпись" NameU="Text box" Master="22">
+					<Text>Ключове слово</Text>
+					<XForm>
+						<PinX Unit="MM">2.559055118110236</PinX>
+						<PinY Unit="MM">8.858267716535432</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="22" UniqueID="{1427F630-4D50-498E-86D9-6CC703F24EF6}" Name="Sheet.22" NameU="Sheet.22">
+					<XForm>
+						<PinX Unit="MM">4.035433070866141</PinX>
+						<PinY Unit="MM">6.574803149606299</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="34" UniqueID="{FF31EC8C-5294-4B32-AC04-96C218A65775}" Name="Sheet.34" NameU="Sheet.34">
+					<Text>Результати пошуку</Text>
+					<XForm>
+						<PinX Unit="MM">4.082239720034996</PinX>
+						<PinY Unit="MM">7.735126859142607</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="39" UniqueID="{83C6F299-3B77-48AC-80AA-F77CA39CB6F7}" Name="Sheet.39" NameU="Sheet.39">
+					<XForm>
+						<PinX Unit="MM">1.771653543307086</PinX>
+						<PinY Unit="MM">3.228346456692914</PinY>
+					</XForm>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description></HLURL:Description>
+										<HLURL:Address></HLURL:Address>
+										<HLURL:SubAddress>Головна/Форма%20приложения</HLURL:SubAddress>
+										<HLURL:ExtraInfo></HLURL:ExtraInfo>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:NewWindow>0</HLURL:NewWindow>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+				</Shape>
+				<Shape ID="40" UniqueID="{70203867-6760-4CB2-AEB2-9ABA397A59C1}" Name="Кнопка.28" NameU="Button.28" Master="12">
+					<Text>Назад</Text>
+					<XForm>
+						<PinX Unit="MM">1.771653543307087</PinX>
+						<PinY Unit="MM">3.228346456692913</PinY>
+					</XForm>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description></HLURL:Description>
+										<HLURL:Address></HLURL:Address>
+										<HLURL:SubAddress>Головна/Форма%20приложения</HLURL:SubAddress>
+										<HLURL:ExtraInfo></HLURL:ExtraInfo>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:NewWindow>0</HLURL:NewWindow>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+				</Shape>
+				<Shape ID="35" UniqueID="{31EA3DF9-0240-4097-A179-C46BEEE38AE1}" Name="Назад" NameU="Back" Master="48">
+					<XForm>
+						<PinX Unit="MM">1.098952197904395</PinX>
+						<PinY Unit="MM">3.228346456692914</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="12" UniqueID="{56AA000E-EDEA-4E51-9405-686F0067113F}" Name="Sheet.12" NameU="Sheet.12">
+					<XForm>
+						<PinX Unit="MM">5.846456692913385</PinX>
+						<PinY Unit="MM">8.876082677165355</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="13" UniqueID="{777E1A62-0594-4732-B367-FEE197205C81}" Name="Элемент списка" NameU="List box item" Master="41">
+					<Text>Критерій пошуку</Text>
+					<XForm>
+						<PinX Unit="MM">5.846456692913385</PinX>
+						<PinY Unit="MM">8.876082677165355</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="15" UniqueID="{656D888D-373F-407E-88EC-3F6ED7421564}" Name="Раскрывающийся список" NameU="Drop down" Master="42">
+					<XForm>
+						<PinX Unit="MM">6.515748031496068</PinX>
+						<PinY Unit="MM">8.876082677165355</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="19" UniqueID="{26D7BDBC-1E5E-4F7A-AC3D-2A5B37ACC97A}" Name="Кнопка" NameU="Button" Master="12">
+					<Text>Пошук</Text>
+					<XForm>
+						<PinX Unit="MM">3.976377952755906</PinX>
+						<PinY Unit="MM">8.435974409448818</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="26" UniqueID="{B355AE74-4685-4AC7-AF74-3634CF918DF2}" Name="Sheet.26" NameU="Sheet.26">
+					<XForm>
+						<PinX Unit="MM">4.035433070866142</PinX>
+						<PinY Unit="MM">4.300188624615872</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="24" UniqueID="{F919B147-7762-495A-B89A-26DC0332F13A}" Name="Sheet.24" NameU="Sheet.24">
+					<Text>Інформація про клієнта</Text>
+					<XForm>
+						<PinX Unit="MM">4.075034738304773</PinX>
+						<PinY Unit="MM">4.922723287536737</PinY>
+					</XForm>
+				</Shape>
+			</Shapes>
+		</Page>
+		<Page ID="13" Name="Реєстрація" NameU="Реєстрація">
+			<Layer IX="0">
+				<Name>Контейнер</Name>
+				<NameUniv>Container</NameUniv>
+				<Visible>1</Visible>
+			</Layer>
+			<Shapes>
+				<Shape ID="1" UniqueID="{BBB54A93-1C18-44D4-B656-EC819E97A507}" Name="Контейнер 4" NameU="Container 4" Master="39">
+					<Text>Заголовок</Text>
+					<XForm>
+						<PinX Unit="MM">3.956692913385826</PinX>
+						<PinY Unit="MM">7.045570771429372</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="6" UniqueID="{932FBAFE-2FE4-47DE-A652-40572863D682}" Name="Контейнер 4.12" NameU="Container 4.12" Master="39">
+					<Text>Заголовок</Text>
+					<XForm>
+						<PinX Unit="MM">3.956692913385826</PinX>
+						<PinY Unit="MM">7.498326676941180</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="11" UniqueID="{DED6DED9-7E1A-46F3-9D23-1B62C7E6CE2E}" Name="Контейнер 4.17" NameU="Container 4.17" Master="39">
+					<Text>Заголовок</Text>
+					<XForm>
+						<PinX Unit="MM">3.948709536307962</PinX>
+						<PinY Unit="MM">7.500000000000000</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="16" UniqueID="{6D884F43-9289-4748-8EBA-D4DA2DB2F40C}" Name="Форма диалога" NameU="Dialog form" Master="14">
+					<Text>Реєстрація користувача</Text>
+					<XForm>
+						<PinX Unit="MM">3.956692913385826</PinX>
+						<PinY Unit="MM">7.004527369630398</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="21" UniqueID="{13F71347-45B3-4DA2-B9D2-F4D573C3D7BF}" Name="Sheet.21" NameU="Sheet.21">
+					<XForm>
+						<PinX Unit="MM">5.669291338582678</PinX>
+						<PinY Unit="MM">8.431692723961099</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="22" UniqueID="{AF39951F-5722-4411-AB3B-39DC2B084A4C}" Name="Кнопка" NameU="Button" Master="12">
+					<Text>Реєстрація</Text>
+					<XForm>
+						<PinX Unit="MM">5.531496062992127</PinX>
+						<PinY Unit="MM">3.937007874015750</PinY>
+					</XForm>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description></HLURL:Description>
+										<HLURL:Address></HLURL:Address>
+										<HLURL:SubAddress>Головна/Форма%20приложения</HLURL:SubAddress>
+										<HLURL:ExtraInfo></HLURL:ExtraInfo>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:NewWindow>0</HLURL:NewWindow>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+				</Shape>
+				<Shape ID="26" UniqueID="{6A34D631-6CE8-40BA-914D-81B786DB4A86}" Name="Sheet.26" NameU="Sheet.26">
+					<XForm>
+						<PinX Unit="MM">2.720253718285214</PinX>
+						<PinY Unit="MM">8.433366047019918</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="27" UniqueID="{3216B878-73BB-4531-847E-C6FFDAC2CA08}" Name="Подпись.18" NameU="Label.18" Master="23">
+					<Text>Прізвище</Text>
+					<XForm>
+						<PinX Unit="MM">4.685039370078741</PinX>
+						<PinY Unit="MM">9.150811818449288</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="28" UniqueID="{BA767DB9-07A7-4360-AC3F-A934BD542958}" Name="Подпись.19" NameU="Label.19" Master="23">
+					<Text>Ім’я</Text>
+					<XForm>
+						<PinX Unit="MM">4.710848643919510</PinX>
+						<PinY Unit="MM">9.583882684591021</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="29" UniqueID="{3CE077B0-438E-4559-A8BE-961A8603638B}" Name="Надпись" NameU="Text box" Master="22">
+					<Text>Введите текст</Text>
+					<XForm>
+						<PinX Unit="MM">5.718503937007872</PinX>
+						<PinY Unit="MM">9.382676975929604</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="30" UniqueID="{7F2FA477-8374-487C-99BA-A01CE49E4F97}" Name="Надпись.42" NameU="Text box.42" Master="22">
+					<Text>Введите текст</Text>
+					<XForm>
+						<PinX Unit="MM">5.718503937007872</PinX>
+						<PinY Unit="MM">8.949606109787871</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="31" UniqueID="{1A2BC7D8-90C1-4F67-BC80-E4989F9EE03A}" Name="Подпись.24" NameU="Label.24" Master="23">
+					<Text>По батькові</Text>
+					<XForm>
+						<PinX Unit="MM">4.704724409448819</PinX>
+						<PinY Unit="MM">8.678370873567399</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="32" UniqueID="{C6E203AC-30A8-4CB6-84EB-157D09AD0A58}" Name="Надпись.34" NameU="Text box.34" Master="22">
+					<Text>Введите текст</Text>
+					<XForm>
+						<PinX Unit="MM">5.718503937007872</PinX>
+						<PinY Unit="MM">8.477165164905980</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="33" UniqueID="{48D1F6D3-153E-400E-9F36-47AB5A95516D}" Name="Sheet.33" NameU="Sheet.33">
+					<Text>Інформація про номер</Text>
+					<XForm>
+						<PinX Unit="MM">2.720253718285214</PinX>
+						<PinY Unit="MM">9.585520559930009</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="52" UniqueID="{3390F8E3-4AF8-4B3B-A4EB-C342CB152D98}" Name="Sheet.52" NameU="Sheet.52">
+					<XForm>
+						<PinX Unit="MM">2.496281714785651</PinX>
+						<PinY Unit="MM">3.937007874015748</PinY>
+					</XForm>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description></HLURL:Description>
+										<HLURL:Address></HLURL:Address>
+										<HLURL:SubAddress>Головна/Форма%20приложения</HLURL:SubAddress>
+										<HLURL:ExtraInfo></HLURL:ExtraInfo>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:NewWindow>0</HLURL:NewWindow>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+				</Shape>
+				<Shape ID="53" UniqueID="{0B485187-5C51-42BD-9327-2FB0D661237E}" Name="Кнопка.28" NameU="Button.28" Master="12">
+					<Text>       Відмінити</Text>
+					<XForm>
+						<PinX Unit="MM">2.496281714785651</PinX>
+						<PinY Unit="MM">3.937007874015747</PinY>
+					</XForm>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description></HLURL:Description>
+										<HLURL:Address></HLURL:Address>
+										<HLURL:SubAddress></HLURL:SubAddress>
+										<HLURL:ExtraInfo></HLURL:ExtraInfo>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:NewWindow>0</HLURL:NewWindow>
+										<HLURL:AbsoluteURL></HLURL:AbsoluteURL>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+				</Shape>
+				<Shape ID="57" UniqueID="{05C44B18-1C4B-4FEC-860B-C18506D6034B}" Name="Удалить" NameU="Remove" Master="43">
+					<XForm>
+						<PinX Unit="MM">1.807305336832895</PinX>
+						<PinY Unit="MM">3.937007874015748</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="58" UniqueID="{65C0E709-E6D2-46C3-9122-3DEF5C435DE8}" Name="Sheet.58" NameU="Sheet.58">
+					<XForm>
+						<PinX Unit="MM">3.976377952755904</PinX>
+						<PinY Unit="MM">6.141732283464567</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="59" UniqueID="{8AB92B51-D5CE-4275-B7B6-C99F829D8C6E}" Name="Флажок" NameU="Checkbox" Master="45">
+					<Text>Замовлення додаткових послуг</Text>
+					<XForm>
+						<PinX Unit="MM">3.149606299212598</PinX>
+						<PinY Unit="MM">6.792620698474677</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="63" UniqueID="{E6B49921-231A-4E70-9285-527E146EC3D6}" Name="Кнопка.63" NameU="Button.63" Master="12">
+					<Text>Замовити послугу</Text>
+					<XForm>
+						<PinX Unit="MM">2.519685039370078</PinX>
+						<PinY Unit="MM">6.062992125984251</PinY>
+					</XForm>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description></HLURL:Description>
+										<HLURL:Address></HLURL:Address>
+										<HLURL:SubAddress>Додаткові2/Форма%20диалога</HLURL:SubAddress>
+										<HLURL:ExtraInfo></HLURL:ExtraInfo>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:NewWindow>0</HLURL:NewWindow>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+				</Shape>
+				<Shape ID="67" UniqueID="{C530C4A2-97CB-4731-9510-9DC9AF4EB3FF}" Name="Sheet.67" NameU="Sheet.67">
+					<XForm>
+						<PinX Unit="MM">5.118110236220472</PinX>
+						<PinY Unit="MM">5.948089398168718</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="68" UniqueID="{4AB9B49E-EA4D-46C0-B2B4-FEF6674AA867}" Name="Sheet.68" NameU="Sheet.68">
+					<Text>Список замовлень</Text>
+					<XForm>
+						<PinX Unit="MM">5.105861767279090</PinX>
+						<PinY Unit="MM">6.514654418197725</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="69" UniqueID="{927FBDA4-AA34-4B54-8329-82C98CA2D3E6}" Name="Кнопка.69" NameU="Button.69" Master="12">
+					<Text>Вибрати номер ...</Text>
+					<XForm>
+						<PinX Unit="MM">5.692694663167103</PinX>
+						<PinY Unit="MM">7.772243905063462</PinY>
+					</XForm>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description></HLURL:Description>
+										<HLURL:Address></HLURL:Address>
+										<HLURL:SubAddress>Реєстр/Форма%20диалога</HLURL:SubAddress>
+										<HLURL:ExtraInfo></HLURL:ExtraInfo>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:NewWindow>0</HLURL:NewWindow>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+				</Shape>
+				<Shape ID="34" UniqueID="{01AD6BBB-30EF-4FDF-BCC7-AEFAF22D880C}" Name="Подпись" NameU="Label" Master="23">
+					<Text>ЗАГАЛЬНА ВАРТІСТЬ - </Text>
+					<XForm>
+						<PinX Unit="MM">2.320975503062117</PinX>
+						<PinY Unit="MM">4.409448818897638</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="35" UniqueID="{783E2948-FE43-46E9-994D-7272B02F1170}" Name="Подпись.35" NameU="Label.35" Master="23">
+					<Text>Вартість проживання - </Text>
+					<XForm>
+						<PinX Unit="MM">2.316710411198601</PinX>
+						<PinY Unit="MM">4.961245078740157</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="36" UniqueID="{0B4F32BD-E06A-47C3-AC05-6C7F4327A306}" Name="Подпись.36" NameU="Label.36" Master="23">
+					<Text>Вартість додаткових послуг - </Text>
+					<XForm>
+						<PinX Unit="MM">2.314085739282590</PinX>
+						<PinY Unit="MM">4.685654527559055</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="37" UniqueID="{5D8EE67E-7673-42F2-97B0-3CE1171C22E4}" Name="Подпись.37" NameU="Label.37" Master="23">
+					<Text>$$$</Text>
+					<XForm>
+						<PinX Unit="MM">4.831036745406824</PinX>
+						<PinY Unit="MM">4.960014763779528</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="38" UniqueID="{A035EE47-B6BC-4F0A-BC8F-F28368DECB48}" Name="Подпись.38" NameU="Label.38" Master="23">
+					<Text>$$$</Text>
+					<XForm>
+						<PinX Unit="MM">4.831583552055994</PinX>
+						<PinY Unit="MM">4.685654527559055</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="39" UniqueID="{1EE19AEE-8BB2-4180-8D78-C629EE498FAF}" Name="Подпись.39" NameU="Label.39" Master="23">
+					<Text>$$$</Text>
+					<XForm>
+						<PinX Unit="MM">4.842519685039370</PinX>
+						<PinY Unit="MM">4.408833661417323</PinY>
+					</XForm>
+				</Shape>
+			</Shapes>
+		</Page>
+		<Page ID="15" Name="Реєстр" NameU="Реєстр">
+			<Layer IX="0">
+				<Name>Контейнер</Name>
+				<NameUniv>Container</NameUniv>
+				<Visible>1</Visible>
+			</Layer>
+			<Shapes>
+				<Shape ID="1" UniqueID="{FC2EF495-38E4-4CBD-9BB6-66584B2B6937}" Name="Контейнер 4" NameU="Container 4" Master="39">
+					<Text>Заголовок</Text>
+					<XForm>
+						<PinX Unit="MM">2.413363954505687</PinX>
+						<PinY Unit="MM">8.286307961504813</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="6" UniqueID="{FAE21D78-9AAB-44CC-AB7E-9F022EAC5EE4}" Name="Форма диалога" NameU="Dialog form" Master="14">
+					<Text>Вибір номеру</Text>
+					<XForm>
+						<PinX Unit="MM">3.997484689413823</PinX>
+						<PinY Unit="MM">6.653543307086620</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="11" UniqueID="{37915F43-466A-45D6-95CB-B412DD8F4C68}" Name="Sheet.11" NameU="Sheet.11">
+					<XForm>
+						<PinX Unit="MM">2.312992125984252</PinX>
+						<PinY Unit="MM">8.523622047244094</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="12" UniqueID="{C9FA1E53-EAE6-404C-97D6-2C040D43942B}" Name="Переключатель" NameU="Radio button" Master="38">
+					<XForm>
+						<PinX Unit="MM">0.909120734908138</PinX>
+						<PinY Unit="MM">8.348988149031294</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="15" UniqueID="{DAC7522C-B4F2-4708-9031-21C5FB88ED76}" Name="Переключатель.9" NameU="Radio button.9" Master="38">
+					<XForm>
+						<PinX Unit="MM">0.909120734908138</PinX>
+						<PinY Unit="MM">8.048649646244297</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="18" UniqueID="{94C90A50-D2D4-43B2-98F8-0A271650A9A8}" Name="Переключатель.12" NameU="Radio button.12" Master="38">
+					<XForm>
+						<PinX Unit="MM">0.909120734908138</PinX>
+						<PinY Unit="MM">8.649658504512011</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="21" UniqueID="{9D6051E1-2EA5-4269-92AA-583C2AD9D4B9}" Name="Подпись" NameU="Label" Master="23">
+					<Text>Виберіть тип номеру</Text>
+					<XForm>
+						<PinX Unit="MM">0.810695538057744</PinX>
+						<PinY Unit="MM">8.993980767141530</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="22" UniqueID="{D6CED9DC-113B-4A71-9D01-8BE82ED002AD}" Name="Sheet.22" NameU="Sheet.22">
+					<XForm>
+						<PinX Unit="MM">2.312992125984253</PinX>
+						<PinY Unit="MM">6.299212598425196</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="23" UniqueID="{372D37DE-F25D-4985-B7D6-2144F3227A53}" Name="Sheet.23" NameU="Sheet.23">
+					<XForm>
+						<PinX Unit="MM">5.748031496062993</PinX>
+						<PinY Unit="MM">6.301197553917862</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="24" UniqueID="{108E7934-8B9F-4075-9268-65776185169D}" Name="Sheet.24" NameU="Sheet.24">
+					<Text>Інформація про номер</Text>
+					<XForm>
+						<PinX Unit="MM">5.799650043744533</PinX>
+						<PinY Unit="MM">7.538276465441819</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="25" UniqueID="{90E0EAB1-5547-4E35-8B62-C850F9E539FB}" Name="Переключатель.25" NameU="Radio button.25" Master="38">
+					<XForm>
+						<PinX Unit="MM">2.312992125984252</PinX>
+						<PinY Unit="MM">8.649658504512011</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="28" UniqueID="{8ADE357E-8DDE-469C-9A3B-1B444A6EDB02}" Name="Переключатель.28" NameU="Radio button.28" Master="38">
+					<XForm>
+						<PinX Unit="MM">2.312992125984252</PinX>
+						<PinY Unit="MM">8.048649646244297</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="31" UniqueID="{BE501FCD-0ED1-48C6-B330-37FA678F62CF}" Name="Переключатель.31" NameU="Radio button.31" Master="38">
+					<XForm>
+						<PinX Unit="MM">2.312992125984252</PinX>
+						<PinY Unit="MM">8.348988149031293</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="34" UniqueID="{1838B27D-4BCF-4CBE-85BF-46BF3BD82837}" Name="Sheet.34" NameU="Sheet.34">
+					<Text>Список номерів</Text>
+					<XForm>
+						<PinX Unit="MM">2.231846019247594</PinX>
+						<PinY Unit="MM">7.538276465441819</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="35" UniqueID="{30B1F7E3-4096-4251-A220-0D3B213B999F}" Name="Кнопка" NameU="Button" Master="12">
+					<Text>Підтвердити</Text>
+					<XForm>
+						<PinX Unit="MM">5.708661417322835</PinX>
+						<PinY Unit="MM">3.877952755905512</PinY>
+					</XForm>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description></HLURL:Description>
+										<HLURL:Address></HLURL:Address>
+										<HLURL:SubAddress>Реєстрація/Форма%20диалога</HLURL:SubAddress>
+										<HLURL:ExtraInfo></HLURL:ExtraInfo>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:NewWindow>0</HLURL:NewWindow>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+				</Shape>
+				<Shape ID="39" UniqueID="{4E4679CE-23B2-4275-A7A6-80ECD7609506}" Name="Sheet.39" NameU="Sheet.39">
+					<XForm>
+						<PinX Unit="MM">2.027559055118111</PinX>
+						<PinY Unit="MM">3.838582677165355</PinY>
+					</XForm>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description></HLURL:Description>
+										<HLURL:Address></HLURL:Address>
+										<HLURL:SubAddress>Реєстрація/Форма%20диалога</HLURL:SubAddress>
+										<HLURL:ExtraInfo></HLURL:ExtraInfo>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:NewWindow>0</HLURL:NewWindow>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+				</Shape>
+				<Shape ID="40" UniqueID="{8ED87246-AE74-471E-BF3B-344ED6E0BBC4}" Name="Кнопка.28" NameU="Button.28" Master="12">
+					<Text>       Відмінити</Text>
+					<XForm>
+						<PinX Unit="MM">2.027559055118111</PinX>
+						<PinY Unit="MM">3.838582677165354</PinY>
+					</XForm>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description></HLURL:Description>
+										<HLURL:Address></HLURL:Address>
+										<HLURL:SubAddress>Головна/Форма%20приложения</HLURL:SubAddress>
+										<HLURL:ExtraInfo></HLURL:ExtraInfo>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:NewWindow>0</HLURL:NewWindow>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+				</Shape>
+				<Shape ID="44" UniqueID="{892B0ECE-DEBC-4F8B-900A-A41730AB41B0}" Name="Удалить" NameU="Remove" Master="43">
+					<XForm>
+						<PinX Unit="MM">1.338582677165355</PinX>
+						<PinY Unit="MM">3.838582677165355</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="45" UniqueID="{F65BACF2-2E8E-4D2F-81B8-D0FD2C4EE82D}" Name="Sheet.45" NameU="Sheet.45">
+					<XForm>
+						<PinX Unit="MM">5.738188976377954</PinX>
+						<PinY Unit="MM">8.523622047244096</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="46" UniqueID="{C59D23C4-DBA3-457F-B85A-ECCA306AD315}" Name="Подпись.26" NameU="Label.26" Master="23">
+					<Text>Дата в’їзду</Text>
+					<XForm>
+						<PinX Unit="MM">4.303040244969381</PinX>
+						<PinY Unit="MM">8.937007874015748</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="47" UniqueID="{32364740-9B82-41BB-BFE1-D3D0FA7F8A18}" Name="Подпись.27" NameU="Label.27" Master="23">
+					<Text>Дата виселення</Text>
+					<XForm>
+						<PinX Unit="MM">4.291338582677167</PinX>
+						<PinY Unit="MM">8.385826771653543</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="48" UniqueID="{DA3A1A1C-FD61-4516-B08C-50070BD78A71}" Name="Sheet.48" NameU="Sheet.48">
+					<XForm>
+						<PinX Unit="MM">5.285761154855644</PinX>
+						<PinY Unit="MM">8.660802165354330</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="49" UniqueID="{FA1B0A28-0D25-44A0-B539-25B1B3A2DF98}" Name="Элемент списка" NameU="List box item" Master="41">
+					<Text>Текст</Text>
+					<XForm>
+						<PinX Unit="MM">5.285761154855644</PinX>
+						<PinY Unit="MM">8.660802165354330</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="51" UniqueID="{A2C7A606-0C23-4681-B57B-8A90B079E5A2}" Name="Раскрывающийся список" NameU="Drop down" Master="42">
+					<XForm>
+						<PinX Unit="MM">5.955052493438321</PinX>
+						<PinY Unit="MM">8.660802165354330</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="55" UniqueID="{D735C8FD-CE2E-44EB-8B9B-530C0B1148A8}" Name="Sheet.55" NameU="Sheet.55">
+					<XForm>
+						<PinX Unit="MM">5.305446194225723</PinX>
+						<PinY Unit="MM">8.110851377952756</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="56" UniqueID="{E8ED4DA2-B120-475A-BB0A-9231A3890757}" Name="Элемент списка" NameU="List box item" Master="41">
+					<Text>Текст</Text>
+					<XForm>
+						<PinX Unit="MM">5.305446194225723</PinX>
+						<PinY Unit="MM">8.110851377952756</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="58" UniqueID="{E51E21DE-354B-4A47-B25F-9F019F7706B6}" Name="Раскрывающийся список" NameU="Drop down" Master="42">
+					<XForm>
+						<PinX Unit="MM">5.974737532808400</PinX>
+						<PinY Unit="MM">8.110851377952756</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="62" UniqueID="{2D5BEBB4-8CEA-4205-BFCA-9DFDFBD7E223}" Name="Подпись.55" NameU="Label.55" Master="23">
+					<Text>Вартість проживання - </Text>
+					<XForm>
+						<PinX Unit="MM">4.167104111986003</PinX>
+						<PinY Unit="MM">4.527559055118110</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="63" UniqueID="{EFB13A14-764F-4C92-8B2D-A43E82AAE8B9}" Name="Кнопка.63" NameU="Button.63" Master="12">
+					<Text>Розрахувати вартість</Text>
+					<XForm>
+						<PinX Unit="MM">2.303149606299215</PinX>
+						<PinY Unit="MM">4.527559055118109</PinY>
+					</XForm>
+				</Shape>
+			</Shapes>
+		</Page>
+		<Page ID="14" Name="Звільнення" NameU="Звільнення">
+			<Layer IX="0">
+				<Name>Контейнер</Name>
+				<NameUniv>Container</NameUniv>
+				<Visible>1</Visible>
+			</Layer>
+			<Shapes>
+				<Shape ID="1" UniqueID="{1F619907-7401-4FBB-BFED-6B030CCC5181}" Name="Контейнер 4" NameU="Container 4" Master="39">
+					<Text>Заголовок</Text>
+					<XForm>
+						<PinX Unit="MM">2.237970253718286</PinX>
+						<PinY Unit="MM">8.286307961504811</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="6" UniqueID="{DC141EEA-18FA-4752-8288-0C3223243AFA}" Name="Форма диалога" NameU="Dialog form" Master="14">
+					<Text>Звільнення номеру</Text>
+					<XForm>
+						<PinX Unit="MM">3.997484689413823</PinX>
+						<PinY Unit="MM">7.874015748031502</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="12" UniqueID="{E3BF94D1-3749-400D-A310-0351274373A1}" Name="Sheet.12" NameU="Sheet.12">
+					<XForm>
+						<PinX Unit="MM">5.728346456692913</PinX>
+						<PinY Unit="MM">7.935055821634396</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="13" UniqueID="{B7D6B774-C439-4F18-A8D6-CE2F2E17D9AA}" Name="Sheet.13" NameU="Sheet.13">
+					<Text>Інформація про клієнта</Text>
+					<XForm>
+						<PinX Unit="MM">5.799650043744531</PinX>
+						<PinY Unit="MM">9.036526684164478</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="15" UniqueID="{5040B11A-B738-4567-95B1-F9CE6879E0A9}" Name="Кнопка" NameU="Button" Master="12">
+					<Text>Звільнити номер</Text>
+					<XForm>
+						<PinX Unit="MM">5.728346456692913</PinX>
+						<PinY Unit="MM">6.338582677165353</PinY>
+					</XForm>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description></HLURL:Description>
+										<HLURL:Address></HLURL:Address>
+										<HLURL:SubAddress>Головна/Форма%20приложения</HLURL:SubAddress>
+										<HLURL:ExtraInfo></HLURL:ExtraInfo>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:NewWindow>0</HLURL:NewWindow>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+				</Shape>
+				<Shape ID="19" UniqueID="{0905ACC9-14EA-4E97-A54A-578C410983EC}" Name="Sheet.19" NameU="Sheet.19">
+					<XForm>
+						<PinX Unit="MM">2.086614173228347</PinX>
+						<PinY Unit="MM">6.338582677165354</PinY>
+					</XForm>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description></HLURL:Description>
+										<HLURL:Address></HLURL:Address>
+										<HLURL:SubAddress>Головна/Форма%20приложения</HLURL:SubAddress>
+										<HLURL:ExtraInfo></HLURL:ExtraInfo>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:NewWindow>0</HLURL:NewWindow>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+				</Shape>
+				<Shape ID="20" UniqueID="{0E1F4108-A0B8-4D83-A238-25D85AC4F87E}" Name="Кнопка.28" NameU="Button.28" Master="12">
+					<Text>       Відмінити</Text>
+					<XForm>
+						<PinX Unit="MM">2.086614173228347</PinX>
+						<PinY Unit="MM">6.338582677165353</PinY>
+					</XForm>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description></HLURL:Description>
+										<HLURL:Address></HLURL:Address>
+										<HLURL:SubAddress>Головна/Форма%20приложения</HLURL:SubAddress>
+										<HLURL:ExtraInfo></HLURL:ExtraInfo>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:NewWindow>0</HLURL:NewWindow>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+				</Shape>
+				<Shape ID="24" UniqueID="{9F4FAB8A-4072-41B5-95A0-6ABD8E72081E}" Name="Удалить" NameU="Remove" Master="43">
+					<XForm>
+						<PinX Unit="MM">1.397637795275591</PinX>
+						<PinY Unit="MM">6.338582677165354</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="11" UniqueID="{EB7BFC09-86E7-43A8-9122-18A2ADD4FC1A}" Name="Кнопка.11" NameU="Button.11" Master="12">
+					<Text>Пошук клієнта</Text>
+					<XForm>
+						<PinX Unit="MM">2.263779527559056</PinX>
+						<PinY Unit="MM">8.651574803149606</PinY>
+					</XForm>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description></HLURL:Description>
+										<HLURL:Address></HLURL:Address>
+										<HLURL:SubAddress>Пошук/Форма%20диалога</HLURL:SubAddress>
+										<HLURL:ExtraInfo></HLURL:ExtraInfo>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:NewWindow>0</HLURL:NewWindow>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+				</Shape>
+			</Shapes>
+		</Page>
+		<Page ID="16" Name="Додаткові2" NameU="Додаткові2">
+			<Layer IX="0">
+				<Name>Контейнер</Name>
+				<NameUniv>Container</NameUniv>
+				<Visible>1</Visible>
+			</Layer>
+			<Shapes>
+				<Shape ID="1" UniqueID="{1FC23D5D-0D13-4555-8D32-261029D28702}" Name="Контейнер 4" NameU="Container 4" Master="39">
+					<Text>Заголовок</Text>
+					<XForm>
+						<PinX Unit="MM">2.237970253718286</PinX>
+						<PinY Unit="MM">8.286307961504811</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="6" UniqueID="{ADE3374A-E900-433F-A48D-171C8463D569}" Name="Форма диалога" NameU="Dialog form" Master="14">
+					<Text>Замовлення послуг</Text>
+					<XForm>
+						<PinX Unit="MM">3.997484689413823</PinX>
+						<PinY Unit="MM">7.342519685039376</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="11" UniqueID="{407437BB-4174-4C58-99F8-D0562CB2806E}" Name="Sheet.11" NameU="Sheet.11">
+					<XForm>
+						<PinX Unit="MM">2.312992125984253</PinX>
+						<PinY Unit="MM">7.834645669291336</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="12" UniqueID="{F9DEC7B9-A353-4FD3-8C54-E4DFE078AE83}" Name="Sheet.12" NameU="Sheet.12">
+					<XForm>
+						<PinX Unit="MM">5.728346456692913</PinX>
+						<PinY Unit="MM">7.346489596024699</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="13" UniqueID="{570FF50F-31B2-483A-A22F-51F4861F5446}" Name="Sheet.13" NameU="Sheet.13">
+					<Text>Інформація про послугу</Text>
+					<XForm>
+						<PinX Unit="MM">5.799650043744531</PinX>
+						<PinY Unit="MM">9.036526684164478</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="14" UniqueID="{B870CED7-0E7B-46AD-A2E5-BD617B2ED2BC}" Name="Sheet.14" NameU="Sheet.14">
+					<Text>Список послуг</Text>
+					<XForm>
+						<PinX Unit="MM">2.237970253718284</PinX>
+						<PinY Unit="MM">9.034339457567803</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="15" UniqueID="{664C9D8E-EF4F-486A-B4DE-FDD298A88C05}" Name="Кнопка" NameU="Button" Master="12">
+					<Text>Замовити</Text>
+					<XForm>
+						<PinX Unit="MM">5.728346456692913</PinX>
+						<PinY Unit="MM">5.196850393700786</PinY>
+					</XForm>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description></HLURL:Description>
+										<HLURL:Address></HLURL:Address>
+										<HLURL:SubAddress>Реєстрація/Форма%20диалога</HLURL:SubAddress>
+										<HLURL:ExtraInfo></HLURL:ExtraInfo>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:NewWindow>0</HLURL:NewWindow>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+				</Shape>
+				<Shape ID="19" UniqueID="{01C12DF2-0973-4026-8E48-6F317F683F4A}" Name="Sheet.19" NameU="Sheet.19">
+					<XForm>
+						<PinX Unit="MM">2.086614173228347</PinX>
+						<PinY Unit="MM">5.196850393700787</PinY>
+					</XForm>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description></HLURL:Description>
+										<HLURL:Address></HLURL:Address>
+										<HLURL:SubAddress>Головна/Форма%20приложения</HLURL:SubAddress>
+										<HLURL:ExtraInfo></HLURL:ExtraInfo>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:NewWindow>0</HLURL:NewWindow>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+				</Shape>
+				<Shape ID="20" UniqueID="{E797F60B-0EAE-46F5-8BCB-AFC871BBE5C9}" Name="Кнопка.28" NameU="Button.28" Master="12">
+					<Text>       Відмінити</Text>
+					<XForm>
+						<PinX Unit="MM">2.086614173228347</PinX>
+						<PinY Unit="MM">5.196850393700786</PinY>
+					</XForm>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description></HLURL:Description>
+										<HLURL:Address></HLURL:Address>
+										<HLURL:SubAddress>Головна/Форма%20приложения</HLURL:SubAddress>
+										<HLURL:ExtraInfo></HLURL:ExtraInfo>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:NewWindow>0</HLURL:NewWindow>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+				</Shape>
+				<Shape ID="24" UniqueID="{C68E5494-B952-4F49-B967-38BA42FD9136}" Name="Удалить" NameU="Remove" Master="43">
+					<XForm>
+						<PinX Unit="MM">1.397637795275591</PinX>
+						<PinY Unit="MM">5.196850393700787</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="25" UniqueID="{39B8C144-477B-4E1E-B1D3-F87D09FC0C06}" Name="Подпись" NameU="Label" Master="23">
+					<Text>Загальна вартість - </Text>
+					<XForm>
+						<PinX Unit="MM">0.764654418197726</PinX>
+						<PinY Unit="MM">5.983636811023620</PinY>
+					</XForm>
+				</Shape>
+			</Shapes>
+		</Page>
+	</Pages>
+</VisioDocument>
